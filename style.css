@@ -39,10 +39,12 @@ nav ul li a {
   color: black;
   font-weight: 450;
 }
+
 .contactus {
   margin-left: 125px;
   margin-right: 125px;
 }
+
 .row {
   display: flex;
   flex-direction: row;
@@ -52,6 +54,7 @@ nav ul li a {
   padding-right: 125px;
   font-size: 30px;
 }
+
 .row-2 {
   display: flex;
   flex-direction: row;
@@ -61,6 +64,7 @@ nav ul li a {
   padding-right: 125px;
   font-size: 30px;
 }
+
 .row-3 {
   display: flex;
   flex-direction: row;
@@ -78,6 +82,7 @@ nav ul li a {
   padding-left: 125px;
   padding-right: 125px;
 }
+
 .row-5 {
   background-color: #1AFFD2;
   display: flex;
@@ -186,6 +191,7 @@ button:active {
   margin: 10px;
   padding: 25px;
 }
+
 .col-4-2 {
   float: left;
   text-align: center;
@@ -193,6 +199,7 @@ button:active {
   margin: 10px;
   padding: 25px;
 }
+
 .col-4-3 {
   text-align: center;
   float: left;
@@ -201,9 +208,7 @@ button:active {
   padding: 25px;
 }
 
-.table1,
-.table2,
-.table3 {
+.table1, .table2, .table3 {
   border: none;
   position: relative;
   background-color: #1AFFD2;
@@ -223,6 +228,7 @@ button:active {
   background-color: white;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
+
 .grid-2 {
   display: grid;
   grid-template-columns: auto;
@@ -231,6 +237,7 @@ button:active {
   background-color: white;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
+
 .grid-3 {
   display: grid;
   grid-template-columns: auto;
@@ -240,17 +247,14 @@ button:active {
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   border: white;
 }
-.pg2,
-.pg1,
-.pg3 {
+
+.pg2, .pg1, .pg3 {
   font-size: 15px;
   margin-left: 10px;
   margin-top: 20px;
 }
 
-.hg1,
-.hg2,
-.hg3 {
+.hg1, .hg2, .hg3 {
   margin-left: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -273,6 +277,7 @@ button:active {
   grid-template-columns: auto auto;
   margin: 10px;
 }
+
 .form-input .underline {
   display: grid;
   grid-template-columns: auto auto;
@@ -309,6 +314,7 @@ label {
   width: 425px;
   margin: 10px;
 }
+
 .form-m .underline {
   display: grid;
   grid-template-columns: auto;
@@ -325,6 +331,7 @@ label {
   color: white;
   width: 350px;
 }
+
 .foot-2 {
   padding-top: 25px;
   color: white;
