@@ -177,8 +177,8 @@ button:active {
   background-color: #2ad1bb;
   border: 2px solid white;
   position: relative;
-  font-size: medium;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  font-family: monospace;
   margin-top: 20px;
   height: 30px;
   width: 460px;
